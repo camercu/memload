@@ -1,0 +1,11 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    "features": {
+        "git": "latest"
+    },
+    "extensions": [
+        "eamodio.gitlens",
+        "tamasfe.even-better-toml",
+        "matklad.rust-analyzer",
+    ]
+}
